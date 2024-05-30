@@ -10,7 +10,7 @@ export default function Header() {
       </div>
       <div className="header-button">
         <a
-          href="https://github.com/svp12345"
+          href="https://github.com/swapnilpokale"
           target="_blank"
           rel="noopener noreferrer"
         >
